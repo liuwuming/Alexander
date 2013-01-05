@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<prop>
+  <mess>
+    <property name="sSize" value="52"></property>
+    <property name="cSize" value="23"></property>
+    <property name="pSize" value="15"></property>
+    <property name="aSize" value="25"></property>
+  </mess>
+</prop>
